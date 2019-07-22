@@ -254,7 +254,6 @@ $databases['default']['default'] = array(
  'prefix' => '',
 );
 
-
 /**
  * Access control for update.php script.
  *
